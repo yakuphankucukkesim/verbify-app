@@ -21,10 +21,7 @@
       "ios": {
         "resourceClass": "m-medium"
       },
-      "node": "22.11.0",
-      "npm": {
-        "cache": true
-      }
+      "node": "22.11.0"
     }
   },
   "submit": {
